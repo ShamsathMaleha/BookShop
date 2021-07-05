@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+
+.login-box {
+    color: #5e665e;
+    grid-column: 20rem;
+    grid-template-columns: 20rem;
+
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    margin: -280px 0 0 -260px;
+    width: 500px;
+    height: 800px;
+}
+.login-box2 {
+    color: #5e665e;
+    grid-column: 20rem;
+    grid-template-columns: 20rem;
+
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    margin: -150px 0 0 -150px;
+    width: 500px;
+    height: 800px;
+}
+.login-box h2 {
+    color: rgb(71, 15, 228);
+
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
+nav h1 {
+    color: white;
+}
+.tittle {
+    color: #5e665e;
+    grid-column: 20rem;
+    grid-template-columns: 20rem;
+
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    margin: -260px 0 0 -250px;
+    width: 500px;
+    height: 600px;
+}
+.tittle2 {
+    color: #5e665e;
+    grid-column: 20rem;
+    grid-template-columns: 20rem;
+
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    margin: -150px 0 0 -150px;
+    width: 500px;
+    height: 600px;
+}
+
+.reg a {
+    text-decoration: none;
+    color: rgb(56, 56, 90);
+    font: 3em inherit;
+    position: absolute;
+    top: 25%;
+    left: 3%;
+}
+
+.img {
+    width: 100%;
+    height: 600px;
+    margin-top: 5px;
+    padding: auto;
+}
+
+.heading-tag a {
+    position: relative;
+    left: 45%;
+    padding-bottom: 5rem;
+    text-transform: uppercase;
+    font-size: 2rem;
+    color: rgba(0, 0, 0, 0.7);
+    margin-top: 10rem;
+    text-decoration: none;
+    height: 20rem;
+}
+
+.img-1 {
+    border-radius: 3rem;
+    height: 140px;
+    width: 140px;
+}
+.img-2 {
+    border-radius: 1rem;
+    height: 500px;
+    width: 500px;
+}
+
+div button a .cart {
+    color: white;
+}
+
+.heading-tag-2,
+.heading-tag-2 a {
+    /* position: relative;
+
+    left: 45%; */
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    text-transform: uppercase;
+    font-size: 2rem;
+    color: rgba(0, 0, 0, 0.7);
+    background-color: rgb(247, 243, 243);
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.author li {
+    justify-content: center;
+    text-align: center;
+}
+
+.cat-slider .slick-slide {
+    display: block;
+    margin-left: 0;
+    padding: 10px;
+    width: 280px;
+}
